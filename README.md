@@ -1,25 +1,86 @@
-<h1 align="center">Hi 👋, I'm Arfaz</h1>
-<h3 align="center">A passionate full stack developer and web & app developer in flutter from India</h3>
+# 💫 About Me:
+I am a dedicated Flutter application developer with 1+ years of experience in developing high-quality mobile applications for both Android and iOS platforms. I also have experience in React and JavaScript for Web development.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arfaz123" alt="arfaz123" /></a> </p>
+My core skills include building custom widgets, integrating APIs, handling state management, and implementing complex UI designs using Flutter. I have extensive experience in developing cross-platform mobile applications using Flutter, which has allowed me to create robust and efficient solutions that work seamlessly across multiple platforms.
 
-<p align="left"> <a href="https://twitter.com/arfazchhapawala" target="blank"><img src="https://img.shields.io/twitter/follow/arfazchhapawala?logo=twitter&style=for-the-badge" alt="arfazchhapawala" /></a> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arfaz_1786)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ashrafchauhan67)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://twitter.com/ArfazChhapawala)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Arfaz123)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/arfaz123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arfaz123" height="30" width="40" /></a>
-<a href="https://twitter.com/arfazchhapawala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arfazchhapawala" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arfaz-chhapawala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arfaz-chhapawala" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/arfaz-chhapawala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arfaz-chhapawala" height="30" width="40" /></a>
-<a href="https://instagram.com/arfaz_1786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arfaz_1786" height="30" width="40" /></a>
-<a href="https://hashnode.com/arfaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="arfaz" height="30" width="40" /></a>
-<a href="https://discord.gg/arfaz_516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="arfaz_516" height="30" width="40" /></a>
-</p>
+# 💻 Tech Stack:
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) ![Appwrite](https://img.shields.io/badge/Appwrite-%23005AFF.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-%230056DF.svg?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-%23007ACC.svg?style=for-the-badge&logo=api&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white) ![Cron](https://img.shields.io/badge/Cron-%23161616.svg?style=for-the-badge&logo=cron&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/Arfaz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/Arfaz" /></a></p><br><br>
+## 📦 Flutter Packages:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arfaz123&show_icons=true&locale=en&layout=compact" alt="arfaz123" /></p>
+| Package Name | Description |
+|--------------|-------------|
+| [ui_to_design](https://pub.dev/packages/ui_to_image) | A Flutter package to create gradient icons. | 
+
+---
+
+## 🚀 Work Experience:
+
+- Worked on developing and maintaining mobile applications using Flutter, Node.js and OpenAI.
+- Collaborated with the team to design, develop, and implement app features and functionalities.
+- Integrated Firebase for user authentication, real-time database, and cloud storage.
+- Utilized REST API calls for data retrieval and manipulation.
+- Implemented socket connections for real-time communication features.
+- Worked closely with designers and product managers to ensure seamless user experiences.
+- Participated in code reviews, testing, and debugging to ensure high-quality codebase.
+- Developed and maintained documentation for codebase and project requirements.
+
+---
+
+## 🌱 Open to Work:
+If you have an interesting project or job opportunity, feel free to reach out to me.
+
+# 📚 Education:
+- B.Tech in Computer Engineering
+
+# 📂 Projects:
+## Masjids Near Me
+Mobile application designed to help people offer Salah on time by locating nearby masjids and tracking Salah start times. Developed with Flutter, Node.js, and Python.
+
+## BotifyMe
+Comprehensive social media application that empowers users to create and manage personalized bots across various categories. Built with Flutter, Node.js, and Python integrated with OpenAI.
+
+## GPT ChatGod - Chat Ai GPT 4
+Cutting-edge chatbot application that leverages the advanced GPT-4 AI model for accurate and rapid responses to user queries. Built using Flutter, Node.js, and Python.
+
+## Chat GDT - Open AI GPT ChatBOT
+AI-powered chatbot that learns from interactions and uses the GPT-3 language model to generate realistic responses. Developed with Flutter, Node.js, and Python with Open AI.
+
+## Writer Tool
+AI-powered content generation platform that produces high-quality copy for websites, blogs, and social media. Built using Flutter, Node.js, and Python with OpenAI.
+
+## AI Virtual Friend: AI Moodmate
+Innovative mobile application that offers users the opportunity to improve their mental well-being through virtual socialization and relationships. Developed using Flutter, Node.js, Python, and OpenAI.
+
+## Talk with AI Celebrity: Avtars
+Unique mobile application that allows users to interact with AI-powered avatars of their favorite celebrities. Developed with Flutter, Node.js, Python, and OpenAI.
+
+## The Green Leopard
+Innovative mobile application for plant enthusiasts to nurture indoor plants. Control temperature, water, pH, and more using Flutter, Node.js, Python, and OpenAI.
+
+# 🏆 Organizations:
+1. Training & Placement - Student Coordinator
+2. TECH-A-THON 1.O by iNeuron - Participant
+3. Tech Fest 2022 - Student Coordinator
+4. HACKATHON 2022 - Participant
+5. Treasure Hunt in 2021 - Second Position out of 36 teams
+6. Akshay Kumar KUDO Tournament 2022 - Student Coordinator
+
+# 🎶 Interests:
+- Singing
+- Cooking
+- Reading Books
+- Fitness
+- Badminton
+
+Feel free to connect with me and explore my projects further!
+
+<!-- Proudly crafted with ❤️ by Arfaz Chhapawala -->
