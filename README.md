@@ -42,7 +42,7 @@ If you have an interesting project or job opportunity, feel free to reach out to
 - B.Tech in Computer Engineering
 
 # 📂 Projects:
-## Masjids Near Me
+## [][Masjids Near Me](https://play.google.com/store/apps/details?id=co.namaz.near.me)
 Mobile application designed to help people offer Salah on time by locating nearby masjids and tracking Salah start times. Developed with Flutter, Node.js, and Python.
 
 ## BotifyMe
