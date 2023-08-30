@@ -48,22 +48,22 @@ Mobile application designed to help people offer Salah on time by locating nearb
 ## BotifyMe
 Comprehensive social media application that empowers users to create and manage personalized bots across various categories. Built with Flutter, Node.js, and Python integrated with OpenAI.
 
-## GPT ChatGod - Chat Ai GPT 4
+## [GPT ChatGod - Chat Ai GPT 4](https://play.google.com/store/apps/details?id=com.aichat.chatgod)
 Cutting-edge chatbot application that leverages the advanced GPT-4 AI model for accurate and rapid responses to user queries. Built using Flutter, Node.js, and Python.
 
-## Chat GDT - Open AI GPT ChatBOT
+## [Chat GDT - Open AI GPT ChatBOT](https://play.google.com/store/apps/details?id=com.chat.rapidchatgpt)
 AI-powered chatbot that learns from interactions and uses the GPT-3 language model to generate realistic responses. Developed with Flutter, Node.js, and Python with Open AI.
 
 ## Writer Tool
 AI-powered content generation platform that produces high-quality copy for websites, blogs, and social media. Built using Flutter, Node.js, and Python with OpenAI.
 
-## AI Virtual Friend: AI Moodmate
+## [AI Virtual Friend: AI Moodmate](https://play.google.com/store/apps/details?id=com.aifriend.moodmate)
 Innovative mobile application that offers users the opportunity to improve their mental well-being through virtual socialization and relationships. Developed using Flutter, Node.js, Python, and OpenAI.
 
-## Talk with AI Celebrity: Avtars
+## [Talk with AI Celebrity: Avtars](https://play.google.com/store/apps/details?id=com.avtar.ai)
 Unique mobile application that allows users to interact with AI-powered avatars of their favorite celebrities. Developed with Flutter, Node.js, Python, and OpenAI.
 
-## The Green Leopard
+## [The Green Leopard](https://play.google.com/store/apps/details?id=com.thegreenleopard)
 Innovative mobile application for plant enthusiasts to nurture indoor plants. Control temperature, water, pH, and more using Flutter, Node.js, Python, and OpenAI.
 
 # 🏆 Organizations:
