@@ -19,7 +19,9 @@ My core skills include building custom widgets, integrating APIs, handling state
 
 | Package Name | Description |
 |--------------|-------------|
-| [ui_to_design](https://pub.dev/packages/ui_to_image) | A Flutter package to create gradient icons. | 
+| [ui_to_design](https://pub.dev/packages/ui_to_image) | Create custom image from flutter UI design, store in device and share with social media. | 
+|--------------|-------------|
+| [dio_handler](https://pub.dev/packages/dio_handler) | Handle network API requests with Dio. | 
 
 ---
 
