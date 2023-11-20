@@ -3,6 +3,8 @@ I am a dedicated Flutter application developer with 1+ years of experience in de
 
 My core skills include building custom widgets, integrating APIs, handling state management, and implementing complex UI designs using Flutter. I have extensive experience in developing cross-platform mobile applications using Flutter, which has allowed me to create robust and efficient solutions that work seamlessly across multiple platforms.
 
+![Visiters](https://komarev.com/ghpvc/?username=Arfaz123&color=green)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arfaz_1786)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ArfazChhapawala)
@@ -35,6 +37,19 @@ My core skills include building custom widgets, integrating APIs, handling state
 - Worked closely with designers and product managers to ensure seamless user experiences.
 - Participated in code reviews, testing, and debugging to ensure high-quality codebase.
 - Developed and maintained documentation for codebase and project requirements.
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arfaz123&theme=vue"/>
+</p>
+
+---
+
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Arfaz123&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arfaz123&theme=vue" />
+</p>
 
 ---
 
