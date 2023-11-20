@@ -21,6 +21,7 @@ My core skills include building custom widgets, integrating APIs, handling state
 |--------------|-------------|
 | [ui_to_design](https://pub.dev/packages/ui_to_image) | Create custom image from flutter UI design, store in device and share with social media. | 
 | [dio_handler](https://pub.dev/packages/dio_handler) | DioHandler provides utility functions and customization options to streamline API request handling in your Flutter applications. | 
+| [http_handler](https://pub.dev/packages/http_handler) | HttpHandler provides utility functions and customization options to streamline API request handling in your Flutter applications. | 
 
 ---
 
