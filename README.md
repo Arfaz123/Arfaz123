@@ -6,8 +6,6 @@ Thanks a ton for dropping by. Whether you're looking to discuss your project vis
 ![Visiters](https://komarev.com/ghpvc/?username=Arfaz123&color=green)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arfaz_1786)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ArfazChhapawala)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arfaz-chhapawala-501357234)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Arfaz123)
 [![YouTube](https://img.shields.io/badge/youtube-%23E4405F.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@devfaaz)
